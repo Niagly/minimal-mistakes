@@ -3,11 +3,10 @@ source "https://rubygems.org"
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
-bundle
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "github-pages", group: jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
 run `bundle update github-pages`
 
