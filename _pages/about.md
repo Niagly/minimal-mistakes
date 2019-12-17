@@ -4,7 +4,7 @@ classes: wide
 permalink: /about/
 author_profile: false
 header:
-  image: /assets/header1.jpg
+  image: /assets/clenched.png
 ---
 <h1> Who the f are you? </h1>
 
