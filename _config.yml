@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Níall Glynn"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Working-class economist with a lot to say."
+  bio              : "<i>Working-class economist with a lot to say.</i>"
   location         : "Salford/Manchester, UK"
   email            :
   links:
