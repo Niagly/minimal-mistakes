@@ -6,14 +6,14 @@ author_profile: false
 ---
 <h1> Who the f are you? </h1>
 
-As usual, I am not exactly sure what to write here. Sure, I'll give it a pop. I am an economist, so I tell myself anyway, with too much to say. Or sometimes not enough? I thought I would start a blog to have a place to share my ideas and thoughts with others. So there we are. 
+<p>As usual, I am not exactly sure what to write here. Sure, I'll give it a pop. I am an economist, so I tell myself anyway, with too much to say. Or sometimes not enough? I thought I would start a blog to have a place to share my ideas and thoughts with others. So there we are.<\p>
 
 <h2>Some things I have done:</h2>
--MSc Economics (Queen's University of Belfast);<br>
+<p>-MSc Economics (Queen's University of Belfast);<br>
 -Dick Camplin Education Trust Scholar;<br>
 -(precarious) Employment in startups and as a research assistant;<br>
 -First generation university student;<br>
--Acquired a weird accent.
+-Acquired a weird accent.<\p>
 
 <h2>Interests:</h2>
 -All things economics. More specifically, economic and social networks, platform/gig economy, inequality, alternative economic models/structures and class analysis; <br>
