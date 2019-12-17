@@ -16,10 +16,10 @@ author_profile: false
 -Acquired a weird accent.<\p>
 
 <h2>Interests:</h2>
--All things economics. More specifically, economic and social networks, platform/gig economy, inequality, alternative economic models/structures and class analysis; <br>
+<p>-All things economics. More specifically, economic and social networks, platform/gig economy, inequality, alternative economic models/structures and class analysis; <br>
 -Reading;<br>
 -Electronic music (Sure if academia fails, I will have a sick music collection to rely on innit);<br>
 -Doing a PhD in the future;<br>
 -Attempting to teach myself French;<br>
 -Also, learning Python;<br>
--Ah, that will do for now.
+-Ah, that will do for now.<\p>
