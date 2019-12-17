@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: Blog Posts
-permalink: /blog/
-author: true
+title: Writing
+permalink: /writing/
 ---
