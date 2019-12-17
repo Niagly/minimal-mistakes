@@ -3,6 +3,8 @@ layout: single
 classes: wide
 permalink: /about/
 author_profile: false
+header:
+  image: /assets/images/header1.jpg
 ---
 <h1> Who the f are you? </h1>
 
