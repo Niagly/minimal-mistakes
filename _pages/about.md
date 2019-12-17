@@ -4,8 +4,8 @@ classes: wide
 permalink: /about/
 author_profile: false
 header:
-  image: /assets/clenched.png
----
+  image: /assets/clenched.jpg
+ ---
 <h1> Who the f are you? </h1>
 
 <p> As usual, I am not exactly sure what to write here. Sure, I'll give it a pop. I am an economist, so I tell myself anyway, with too much to say. Or sometimes not enough? I thought I would start a blog to have a place to share my ideas and thoughts with others. So there we are. </p>
