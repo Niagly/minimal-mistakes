@@ -2,6 +2,7 @@
 layout: single
 classes: wide
 title: "Alright r'kid?"
+excerpt: "Finally got round to getting this set up."
 header:
   image: /assets/gbs.jpg
 tags:
