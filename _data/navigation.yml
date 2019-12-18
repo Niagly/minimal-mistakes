@@ -4,7 +4,7 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Writing.html"
-    url: /writing/
+  - title: "Writing"
+    url: /writing.html/
   - title: "Donate"
     url: /donate/
