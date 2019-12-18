@@ -3,9 +3,9 @@ layout: single
 classes: wide
 title: "Writings"
 ---
-<ul>
+<ol>
   {% for post in site.posts %}
-    <ol>
+    <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       <p>{{ post.excerpt }}</p>
     </ol>
