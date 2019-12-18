@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "Alright r'kid?"
 header:
   image: /assets/gbs.jpg
