@@ -13,7 +13,7 @@ tags:
 
 <h2>So why another blog to follow?</h2> 
 
-<p>Aren't there already thousands of other economists, academics and politicos preaching their views on the internet and in the media? Well, yeah. Although some of them are pretty good, I think there is something that is missing. Well, I think there are a few things which I will go into further below.</p>
+<p>Aren't there already thousands of other economists, academics and politicos preaching their views on the internet and in the media? Clearly, yes. Although some of them are pretty good, I think there is something that is missing. Well, I think there are a few things which I will go into further below.</p>
 
 <p>The first, in my opinion, is that here in the UK there is a lack of regional viewpoints in our political and economic debates. You just have to look at the news or who is writing in the national press to see that we are under-represented. More specifically, those from working-class and minority backgrounds are cast mainly aside when we want to express our opinion. This needs to change and fast.</p> 
 <p class="tab">From my own experiences, this seems even more prevalent in academia. This is not because we are dumb or that we do not want to participate, but because it is hard to get our foot in the door or break down those barriers. So hopefully, by starting this blog may help me break down some barriers, and help give me a leg up. Fingers crossed I can even help others do the same. There is a voice outside of the London sphere, and we need to be heard.</p>
