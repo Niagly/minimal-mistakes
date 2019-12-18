@@ -2,5 +2,5 @@
 layout: single
 classes: wide
 title: Writing
-permalink: /writing/
+permalink: /writing.html/
 ---
