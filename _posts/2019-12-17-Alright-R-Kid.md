@@ -28,4 +28,4 @@ tags:
  
 <p>Expect a lot of changes while I get used to formatting the site, but the major ones should be all done. For now, anyway. Looking not too shabby if you ask me. If something doesn't seem to be working or you have any suggestions, feel free to let me know. </p>
 
-<p>I will also be aiming to try and post something at least every other day. Lucky you. Till next time r'kid! </p>
+<p>I will also be aiming to try and post something at least every other day. Lucky you. See how it goes anyway. Till next time r'kid! </p>
