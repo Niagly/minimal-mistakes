@@ -1,7 +1,6 @@
 ---
 layout: single
 classes: wide
-comments: false
 title: "Alright r'kid?"
 excerpt: "Finally got round to getting this set up."
 header:
