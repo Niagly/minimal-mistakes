@@ -18,7 +18,7 @@ header:
 -Acquired a weird accent. </p>
 
 <h2>Interests:</h2>
-<p> -All things economics. More specifically, economic and social networks, platform/gig economy, inequality, alternative economic models/structures and class analysis; <br>
+<p> -All things economics. More specifically, economic and social networks, class analysis, inequality, alternative economic models/structures and platforms; <br>
 -Reading;<br>
 -Electronic music (Sure if academia fails, I will have a sick music collection to rely on innit);<br>
 -Doing a PhD in the future;<br>
