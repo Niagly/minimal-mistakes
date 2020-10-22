@@ -10,7 +10,7 @@ tags:
 ---
 
 
-<h2>Can you have a working class economist??</h2> 
+<h2>Can you have a working class economist?</h2> 
 
 <p>
   
