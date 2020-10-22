@@ -12,17 +12,7 @@ tags:
 
 <h2>Can you have a working class economist??</h2> 
 
-<p>A</p>
-
-<p></p> 
-<p </p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
- 
-<hr>
- 
+<p>
+  
+</p>
 
