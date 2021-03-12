@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title: "Alright r'kid?"
 excerpt: "Finally got round to getting this set up."
-comments: true
+comments: false
 header:
   image: /assets/gbs.jpg
 tags:
