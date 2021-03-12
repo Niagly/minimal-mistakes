@@ -27,7 +27,7 @@ repository:              "niagly/niagly.github.io"
 comments:
   provider               : "staticman_v2"
 staticman:
-  allowedFields          : ['name', 'message']
+  allowedFields          : ['name',"email", 'message']
   branch                 : "master"
   commitMessage          : "New comment by {fields.name}"
   filename               : "comment-{@timestamp}"
