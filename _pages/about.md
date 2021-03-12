@@ -13,7 +13,8 @@ header:
 <h2>Some things I have done:</h2>
 <p> -MSc Economics (Queen's University of Belfast);<br>
 -Dick Camplin Education Trust Scholar;<br>
--Employment (precarious) in startups and in academia. Currently a research assisant at the University of Oxford;<br>
+-Employment (precarious) in startups and in academia.<br>
+(Currently a research assisant at the University of Oxford);<br>
 -First generation university student;<br>
 -Acquired a weird accent. </p>
 
