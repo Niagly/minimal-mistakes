@@ -28,6 +28,7 @@ comments:
   provider               : "staticman_v2"
 staticman:
   allowedFields          : ['name',"email", 'message']
+  staticmanUrl           : "https://api.staticman.net/v3/entry/github/[niagly]/[niagly.github.io]/[master]"
   branch                 : "master"
   commitMessage          : "New comment by {fields.name}"
   filename               : "comment-{@timestamp}"
@@ -42,7 +43,7 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601"
-  endpoint               : https://api.staticman.net/v3/entry/github/[niagly]/[niagly.github.io]/[master]. 
+  endpoint               : #
 reCaptcha:
   siteKey                :
   secret                 :
