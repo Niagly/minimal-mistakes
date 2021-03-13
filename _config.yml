@@ -42,7 +42,7 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601"
-  endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
+  endpoint               : https://api.staticman.net/v3/entry/github/[niagly]/[niagly.github.io]/[master]. 
 reCaptcha:
   siteKey                :
   secret                 :
