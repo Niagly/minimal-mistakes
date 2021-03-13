@@ -29,7 +29,7 @@ comments:
   provider               : "disqus"
   
 disqus:
-    shortname: "https://https-niagly-github-io.disqus.com/admin/"
+    shortname: "https-niagly-github-io"
 
 reCaptcha:
   siteKey                :
