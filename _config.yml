@@ -26,9 +26,10 @@ words_per_minute         : 200
 repository:              "niagly/niagly.github.io"                 
 comments:
   provider               : "staticman_v2"
+  
 staticman:
   allowedFields          : ['name',"email", 'message']
-  staticmanUrl           : "https://api.staticman.net/v3/entry/github/[niagly]/[niagly.github.io]/[master]"
+  staticmanUrl           : "https://niagly.github.io/v3/entry/github/niagly/niagly.github.io/master"
   branch                 : "master"
   commitMessage          : "New comment by {fields.name}"
   filename               : "comment-{@timestamp}"
@@ -44,6 +45,7 @@ staticman:
       options:
         format           : "iso8601"
   endpoint               : #
+
 reCaptcha:
   siteKey                :
   secret                 :
