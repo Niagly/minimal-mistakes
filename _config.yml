@@ -23,28 +23,13 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-repository:              "niagly/niagly.github.io"                 
+repository:              "niagly/niagly.github.io"       
+          
 comments:
-  provider               : "staticman_v2"
+  provider               : "disqus"
   
-staticman:
-  allowedFields          : ['name',"email", 'message']
-  staticmanUrl           : "https://niagly.github.io/v3/entry/github/niagly/niagly.github.io/master"
-  branch                 : "master"
-  commitMessage          : "New comment by {fields.name}"
-  filename               : "comment-{@timestamp}"
-  format                 : "yaml"
-  moderation             : true
-  path                   : "/_data/comments/{options.slug}"
-  requiredFields         : ['name', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601"
-  endpoint               : #
+disqus:
+    shortname: "-niagly-github-io.disqus.com/admin/"
 
 reCaptcha:
   siteKey                :
